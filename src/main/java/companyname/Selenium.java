@@ -62,7 +62,6 @@ public class Selenium {
      public static void main(String[] args) throws IOException {
    	 companyname.Selenium selenuim = new companyname.Selenium();
      selenuim.csvDataArray();
-     System.out.println(Arrays.deepToString(selenuim.csvDataArray()));
  }
 
 
